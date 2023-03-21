@@ -1,0 +1,7 @@
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\bin\Debug\Projet_Info.exe.config
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\bin\Debug\Projet_Info.exe
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\bin\Debug\Projet_Info.pdb
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\obj\Debug\Projet_Info.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\obj\Debug\Projet_Info.exe
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\obj\Debug\Projet_Info.pdb
+C:\Users\Thibault\Documents\Thibault\Année_2\S2\Projet Info\Projet\Projet_Info\Projet_Info\obj\Debug\Projet_Info.csproj.AssemblyReference.cache
